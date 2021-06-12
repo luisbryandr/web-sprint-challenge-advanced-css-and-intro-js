@@ -32,10 +32,12 @@ Please answer the following questions below, you may edit the readme file to inc
 3. How would you explain the concept of a variable to someone new to programming?
 
      variable just like they might have learned in math class is a holder of value, a substitute for data
-     
+
 
 4. What is the purpose of using functions in code?
 
+ to keep Code DRY and able to re use the same code somewhere else
+ 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
